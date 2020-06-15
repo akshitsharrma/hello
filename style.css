@@ -16,12 +16,16 @@ animation-iteration-count:infinite;
 {
    
 
-    80%
+  /*  80%
     {
        
         background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t31.0-8/27797606_731102817078486_6068186106243309629_o.jpg?_nc_cat=101&_nc_sid=e3f864&_nc_ohc=CIpOJNtFuzkAX8TyOkO&_nc_ht=scontent.fdel1-2.fna&oh=ebd2a3336c34458b0f55476993235358&oe=5F0E7AE4);
 
 
+    }*/
+    80%
+    {
+        backgroung-image:url(https://scontent.fdel1-4.fna.fbcdn.net/v/t1.0-9/64477467_1044739375714827_1191473844020314112_o.jpg?_nc_cat=105&_nc_sid=a4a2d7&_nc_ohc=dNrFzCXzwuAAX-kKhTC&_nc_ht=scontent.fdel1-4.fna&oh=24ca32ea9e0b43afe8e937a96546d12a&oe=5F0EEA1A);
     }
     
 60%
