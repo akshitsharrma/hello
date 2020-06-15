@@ -1,0 +1,75 @@
+body
+{
+    text-align:justify;
+    box-shadow:10px 20px 100px rgba(252, 70, 70, 0.5);
+    height:100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t31.0-8/27797606_731102817078486_6068186106243309629_o.jpg?_nc_cat=101&_nc_sid=e3f864&_nc_ohc=CIpOJNtFuzkAX8TyOkO&_nc_ht=scontent.fdel1-2.fna&oh=ebd2a3336c34458b0f55476993235358&oe=5F0E7AE4);
+animation-name:im;
+animation-duration:30s;
+animation-iteration-count:infinite;
+}
+@keyframes im
+{
+   
+
+    80%
+    {
+       
+        background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t31.0-8/27797606_731102817078486_6068186106243309629_o.jpg?_nc_cat=101&_nc_sid=e3f864&_nc_ohc=CIpOJNtFuzkAX8TyOkO&_nc_ht=scontent.fdel1-2.fna&oh=ebd2a3336c34458b0f55476993235358&oe=5F0E7AE4);
+
+
+    }
+    
+60%
+{
+  
+    background-image: url(https://scontent.fdel1-4.fna.fbcdn.net/v/t1.0-9/53336666_1988304527947675_3177792619514167296_o.jpg?_nc_cat=105&_nc_sid=174925&_nc_ohc=w2GZInNQdqsAX8AhAxB&_nc_ht=scontent.fdel1-4.fna&oh=c8d7e9538c32a69267f137cfdf4b320b&oe=5F0E2081);
+}
+40%
+{
+    background-image:url(https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-9/51538261_960999364088829_3344342225663295488_o.jpg?_nc_cat=104&_nc_sid=19026a&_nc_ohc=xAuAt1b0oboAX_W8vit&_nc_ht=scontent.fdel1-2.fna&oh=fde82698ab2409807f49d3c1b7e42e17&oe=5F0CF5C6);
+}
+
+25%
+{
+   
+    background-image:url(https://scontent.fdel1-4.fna.fbcdn.net/v/t1.0-9/59489202_2309862195922191_8732468574980931584_o.jpg?_nc_cat=102&_nc_sid=e3f864&_nc_ohc=hCEvtCn4HNwAX8O7fD5&_nc_ht=scontent.fdel1-4.fna&oh=5b1da7e25fe9b2df85da96cd5c5b9d97&oe=5F0EA8A2)
+}
+
+}
+.box
+{ 
+    
+    box-sizing: border-box;
+    box-shadow:0px 20px 100px rgba(236, 21, 122, 0.9);
+    border: black solid 1px;
+
+}
+@keyframes cont
+{
+20%
+{
+    background-color:whitesmoke;
+}
+}
+
+.content
+{ text-decoration: darkturquoise;
+   animation-name: cont;
+ 
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-size: 32px;
+    width:50%;
+    line-height: 2em;
+    
+ 
+    
+animation-duration:10s;
+animation-iteration-count:infinite;
+box-shadow:10px 20px 100px rgba(20,090,219,0.5);
+}
